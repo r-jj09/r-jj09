@@ -5,7 +5,8 @@ Currently studying at John von Neumann University GAMF Faculty of Engineering an
 
 I started my programming studies in September 2021 Frontend development is what I'm most interested in and like to work with in the future. I always wanted a creative job where I can make my ideas real. I'm not good at painting, writing or drawing. So coding is my form of art
 
-### <ins>Currenty learning Swift</ins>
+### <ins>Currenty learning Swift at University</ins>
+### <ins>Also self-teaching Swift JavaSript</ins>
 
 ### Skills
 
