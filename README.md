@@ -26,3 +26,12 @@ Frontend development is what I'm most interested in and like to work with in the
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/r-jj09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/r-jj09/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/r_jj.09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/r_jjcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/r-jj09/"><img src="https://github-readme-stats.vercel.app/api?username=r-jj09/&show_icons=true&hide=stars,commits,prs,issues,contribs&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="r-jj09/'s GitHub stats" /></a>
+
+<a href="https://github.com/r-jj09/" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-jj09/&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
