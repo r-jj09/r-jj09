@@ -22,8 +22,9 @@ Frontend development is what I'm most interested in and like to work with in the
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-![](https://leetcard.jacoblin.cool/r_jj09?border=0&radius=20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/r-jj09?border=0&radius=20)
 
+<a href="https://github.com/r-jj09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-jj09&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Socials
 
